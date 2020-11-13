@@ -941,7 +941,7 @@ GameStore.Categories = {
    offers = { 
         {			
           icons = { "Arctic_Unicorn.png" },
-          name = "Artic Unicorn",
+          name = "Arctic Unicorn",
           price = 870,
           id = 114,
           description = "{character}\n{speedboost}\n\n<i>The Arctic Unicorn lives in a deep rivalry with its cousin the Blazing Unicorn. Even though they were born in completely different areas, they somehow share the same bloodline. The eternal battle between fire and ice continues. Who will win? Tangerine vs.crystal blue! The choice is yours!</i>",
